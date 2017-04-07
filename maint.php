@@ -31,6 +31,20 @@ echo $content;
 <h5 align=center>This page is reloading every 300 seconds.</h5>
 
 <div align=center valign=center>
+<!-- Malwarebytes ads -->
+  <a href="https://buy.malwarebytes.com/cart/?s=44948&c=cart&k=purl-endpoint-security">Malwarebytes Endpoint Security is an advanced endpoint protection platform that protects your endpoints against unknown and known threats</a>
+  <a href="https://buy.malwarebytes.com/?c=cb&s=44948&aid=44948&k=728x90b"><img src="http://static.cb-content.com/mycontent/342/MBPremium728x90b.jpg" width="728" height="90"/></a>
+  <a href="https://buy.malwarebytes.com/?c=cb&s=44948&aid=44948&k=728x90c"><img src="http://static.cb-content.com/mycontent/342/MBPremium728x90c.jpg" width="728" height="90"/></a>
+  <a href="https://buy.malwarebytes.com/cart/?s=44948&c=cart&k=purl-endpoint-security">Malwarebytes Endpoint Security is an advanced endpoint protection platform that protects your endpoints against unknown and known threats</a>
+  <br><br>
+<!-- Panda Security -->
+  <a href=”https://store.pandasecurity.com/300/cookie?affiliate=44948&x-track=187557&redirectto=https%3A%2F%2Fstore.pandasecurity.com%2F300%2Fpurl-cart%3Fcart%3D175045%26coupon%3DRTGTG50%26x-track%3D187557%26utm_medium%3Daffiliate%26utm_source%3DCLEVERBRIDGE&utm_medium=affiliate&utm_source=CLEVERBRIDGE”></a>
+  <a href="https://store.pandasecurity.com/300/cookie?affiliate=44948&redirectto="><img src="http://static.cb-content.com/mycontent/300/IS_icon.png" width="412" height="412"/></a>
+  <a href=”https://store.pandasecurity.com/300/cookie?affiliate=44948&redirectto=http%3A%2F%2Fwww.pandasecurity.com%2Fsecurity-promotion%2FDefault.asp%3Fcampaign%3Drenewal%26track%3D187557%26utm_medium%3Daffiliate%26utm_source%3DCLEVERBRIDGE%26utm_campaign%3DRenewals”></a>
+<!-- Kaspersky -->
+  <a href="http://www.tkqlhce.com/click-8303790-10575716" target="_top"><img src="http://www.awltovhc.com/image-8303790-10575716" width="468" height="60" alt="Kaspersky Internet Security" border="0"/></a>
+
+  
 <!-- <?php echo $server_admin; ?> -->
 </div>
 </body>
